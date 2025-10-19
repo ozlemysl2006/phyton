@@ -1,0 +1,18 @@
+kilo=int(input("Kilonuzu giriniz(kg): "))
+boy=int(input("Boyunuzu giriniz(m): "))
+BKI=(kilo/(boy*boy))
+print("Vücut kitle indexiniz: ")
+"""
+çarpma=*
+bölme=/
+BKI=kilo/boy*boy
+"""
+input(BKI="boy*boy/kilo")
+if(BKI=="18.5'un altındaysa"):
+    print("Zayıf")
+elif(BKI=="18.5 and 25 arasındaysa"):
+    print("normal")
+elif(BKI=="25 and 30"):
+    print("fazla kilolu")
+elif(BKI=="30'un üstündeyse"):
+    print("obez")
