@@ -1,0 +1,24 @@
+a=int(input("Birinci sayıyı giriniz: "))
+b=int(input("İkinci sayıyı giriniz: "))
+c=int(input("Üçüncü sayıyı giriniz: "))
+Enbüyüksayı=(if("a<b<c"):
+    print=("En büyü sayı=c")
+elif("a<c<b"):
+    print=("En büyük sayı=b")
+elif("b<a<c"):
+    print=("En büyük sayı=c")
+elif("b<c<a"):
+    print=("En büyük sayı=a")
+elif("b<a<c"):
+    print=("En büyük sayı=c"))
+
+if("a<b<c"):
+    print=("En büyü sayı=c")
+elif("a<c<b"):
+    print=("En büyük sayı=b")
+elif("b<a<c"):
+    print=("En büyük sayı=c")
+elif("b<c<a"):
+    print=("En büyük sayı=a")
+elif("b<a<c"):
+    print=("En büyük sayı=c")
