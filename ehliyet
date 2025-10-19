@@ -1,0 +1,14 @@
+isim=input("İsiminizi giriniz: ")
+yaş=int(input("Yaşınızı giriniz: "))
+eğitim=input("Eğitim düzeyinizi giriniz: ")
+
+if(yaş=="17"):
+    print("Bir sene sonra gelin")
+elif(yaş=="18" and isim=="özlem"):
+    print("Pazartesi gel başla")
+elif(yaş=="80"):
+    print("Fazla yaşlısınız")
+elif(eğitim=="lise"):
+    print("ehliyet kaydınız alınmıştır")
+elif(yaş=="15"):
+    print("kaydınız yapılamamıştır")
